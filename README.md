@@ -257,8 +257,6 @@ BOCSAR publishes DV statistics (victim/perpetrator demographics) and [AVO/coerci
 | [NSW Air Quality API](https://www.airquality.nsw.gov.au/air-quality-data-services/air-quality-api) | REST/JSON - free, no key | Hourly data from entire monitoring network: O₃, NO₂, SO₂, CO, PM10, PM2.5 + meteorological. Since 1994. |
 | [Air Quality Data Download](https://www.airquality.nsw.gov.au/air-quality-data-services/data-download-facility) | CSV export | Historical data back to 1994 by station/pollutant |
 
-Goes massively viral during bushfire season. 🔥
-
 ### Beach & Water
 
 | Dataset | Format | Description |
@@ -337,8 +335,6 @@ Also on Data.NSW: [datasets tagged "fines"](https://data.nsw.gov.au/data/dataset
 | Gaming Machine Data Reports | [nsw.gov.au/.../gaming-machine-data-reports](https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/gaming/gaming-machine-data-reports) | Quarterly XLSX | **Net profit (community losses) by LGA** - $2.45 billion in Q3 2025 alone |
 | Licensed Premises Data | Liquor & Gaming NSW (Data.NSW) | XLSX (~4.5MB, monthly) | Every licensed venue: name, address, geocodes, trading hours, **number of poker machines per venue** |
 | [Liquor Licence Register](https://researchdata.edu.au/liquor-licence-premises-list/1461488) | XLSX | Complete register with licence types and conditions |
-
-Canterbury-Bankstown loses ~$717M/year. Fairfield ~$659M. Murray River Council loses ~$6,000 per person per year including children. Overlay with SEIFA disadvantage for devastating visualizations.
 
 ---
 
